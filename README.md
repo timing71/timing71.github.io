@@ -1,2 +1,5 @@
 # timing71.github.io
-Timing71 documentation site
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+Timing71 documentation site.
