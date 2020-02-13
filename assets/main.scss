@@ -1,0 +1,49 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import url('https://fonts.googleapis.com/css?family=Play&display=swap');
+
+$base-font-family: 'Play', Verdana, sans-serif;
+$color-system: #54FFFF;
+
+@import "minima";
+
+.wrapper {
+  max-width: 80%;
+}
+
+.site-header {
+  background-color: black;
+  color: white;
+  padding: 0.25rem;
+}
+
+.site-title, .site-title:visited {
+  color: white;
+  img {
+    margin-right: 0.5rem;
+  }
+}
+
+.site-nav .page-link {
+  color: $color-system;
+  border: 1px solid $color-system;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
+
+  &:hover {
+    color: black;
+    background-color: $color-system;
+    text-decoration: none;
+  }
+}
+
+.site-footer {
+  padding: 0.5rem;
+
+  .footer-col {
+    margin-bottom: 0;
+  }
+}
