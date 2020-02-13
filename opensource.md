@@ -13,7 +13,7 @@ welcome!
 - Language: **JavaScript**
 - License: **AGPL-3.0-or-later**
 
-JavaScript module for interacting with CTF analysis files. Work in progress to
+JavaScript module for interacting with CTD analysis files. Work in progress to
 extract, refactor and modernise code currently used by the Timing71 site.
 
 ## [relay](https://gitlab.com/timing_71/relay)
