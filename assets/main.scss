@@ -33,7 +33,7 @@ $color-system: #54FFFF;
 
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
 
-  &:hover {
+  &:hover, &.active {
     color: black;
     background-color: $color-system;
     text-decoration: none;
