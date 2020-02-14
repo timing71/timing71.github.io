@@ -12,8 +12,9 @@ include_in_nav: true
 
 ## Message format reference
 
+- [Constants and enumerations]({% link reference/constants.md %})
 - [Service manifest]({% link reference/manifest.md %})
-- Service state
+- [Service state]({% link reference/state.md %})
 - Analysis update
 
 ## File format reference

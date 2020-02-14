@@ -56,6 +56,10 @@ between two track sessions happening back-to-back.
   - Column heading
   - Type
   - Description _(optional)_
+
+  Any values may be used, but a number are predefined by `livetiming-core`. See
+  [Constants and enumerations]({% link reference/constants.md %}).
+
 - **description**: _Required_. Description of the session or race.
 - **livetimingVersion**: Version information relating to the service instance.
   - **core**: Version of `livetiming-core` in use.
