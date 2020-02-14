@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="reference-content">
+    <div class="post-content">
+      {{ content }}
+    </div>
+    {% ifhascontent example %}
+      <div class="example-content">
+        <h2>Example</h2>
+        {% contentblock example %}
+      </div>
+    {% endifhascontent %}
+  </div>
+
+</article>

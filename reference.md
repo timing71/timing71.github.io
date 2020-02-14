@@ -12,7 +12,7 @@ include_in_nav: true
 
 ## Message format reference
 
-- Service manifest
+- [Service manifest]({% link reference/manifest.md %})
 - Service state
 - Analysis update
 

@@ -54,3 +54,18 @@ $color-system: #54FFFF;
     width: 88px;
   }
 }
+
+.reference-content {
+
+  display: flex;
+
+  .post-content {
+    flex: 1;
+  }
+  .example-content {
+    flex: 1;
+    padding-left: 1rem;
+    border-left: 1px solid $grey-color-light;
+    overflow-x: auto;
+  }
+}
