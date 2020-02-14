@@ -12,3 +12,6 @@ title: Definitions and terms
   converts it to the CTD format, and publishes it over the timing network.
 - **Upstream source** - live timing data provider, typically based at the track;
   think Al Kamel, TimeService, etc.
+- **WAMP** - [Web Application Messaging Protocol](https://wamp-proto.org/), an
+  open-standard WebSocket subprotocol with publish/subscribe and remote
+  procedure calling.

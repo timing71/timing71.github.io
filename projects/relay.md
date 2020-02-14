@@ -7,9 +7,8 @@ These relays connect to the master server and disseminate messages to clients.
 Clients connect to the relays, not the master server.
 
 The relay code itself is a
-[WAMP](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol)
-component, designed to run as part of a WAMP router such as
-[Crossbar](https://crossbar.io/).
+[WAMP](https://wamp-proto.org/) component, designed to run as part of a WAMP
+router such as [Crossbar](https://crossbar.io/).
 
 ## Running through Docker
 
