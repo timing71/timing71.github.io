@@ -55,15 +55,14 @@ $color-system: #54FFFF;
   }
 }
 
-.reference-content {
+.reference-content .post-content {
 
-  display: flex;
+  margin-right: calc(50% + 2rem);
 
-  .post-content {
-    flex: 1;
-  }
-  .example-content {
-    flex: 1;
+  & > .highlighter-rouge {
+    width: 50%;
+    right: 0;
+    position: absolute;
     padding-left: 1rem;
     border-left: 1px solid $grey-color-light;
     overflow-x: auto;

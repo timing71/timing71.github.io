@@ -4,8 +4,6 @@ group: reference
 title: Service state
 ---
 
-{% contentfor example %}
-
 ```json
 {
   "cars": [
@@ -57,8 +55,6 @@ title: Service state
   }
 }
 ```
-
-{% endcontentfor %}
 
 The service state message includes the current timing screen data for a service.
 It is display-oriented and requires an appropriate

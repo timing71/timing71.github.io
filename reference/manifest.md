@@ -3,16 +3,6 @@ layout: reference
 group: reference
 title: Service manifest
 ---
-A service manifest contains metadata relating to the content of state messages
-from a service process. It defines the meanings of each column of data for
-each car, and contains information about the data source. State messages cannot
-be correctly understood without a service manifest.
-
-The manifest for a running service instance may change over time; for example,
-between two track sessions happening back-to-back.
-
-{% contentfor example %}
-
 ```json
 {
   "colSpec": [
@@ -46,7 +36,13 @@ between two track sessions happening back-to-back.
 }
 ```
 
-{% endcontentfor %}
+A service manifest contains metadata relating to the content of state messages
+from a service process. It defines the meanings of each column of data for
+each car, and contains information about the data source. State messages cannot
+be correctly understood without a service manifest.
+
+The manifest for a running service instance may change over time; for example,
+between two track sessions happening back-to-back.
 
 ## Description
 
