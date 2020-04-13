@@ -18,7 +18,7 @@ Messages sent via the WAMP router are given this wrapper.
 
 - **msgClass**: _Required_. Identifies the type of message contained in
   `payload`. One of the constant values defined in
-  [the `MessageClass` enum]({% link reference/constants.md %}#MessageClass).
+  [the `MessageClass` enum]({% link reference/constants.md %}#messageclass).
 - **date**: _Required_. Date of transmission of the message.
 - **retain**: Boolean. Routing information working around
   [a bug in Crossbar](https://github.com/crossbario/crossbar/issues/1242);
