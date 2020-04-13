@@ -13,6 +13,7 @@ include_in_nav: true
 ## Message format reference
 
 - [Constants and enumerations]({% link reference/constants.md %})
+- [Network message wrapper]({% link reference/network_message.md %})
 - [Service manifest]({% link reference/manifest.md %})
 - [Service state]({% link reference/state.md %})
 - Analysis update
