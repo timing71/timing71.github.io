@@ -10,7 +10,7 @@ list_title: Recent posts
 **Timing71** (formerly the Live Timing Aggregator) is a motorsport live timing
 aggregation, processing, and analysis system. It has many disparate moving
 parts - this site is an attempt to document and catalogue them, including the
-Common Timing Format messages at the heart of the system.
+Common Timing Data formats at the heart of the system.
 
 This documentation is aimed at developers. There's a user help page
 [on the main Timing71 site](https://www.timing71.org/help).
