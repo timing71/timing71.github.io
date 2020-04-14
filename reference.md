@@ -8,7 +8,7 @@ include_in_nav: true
 ## Architectural reference
 
 - [Definitions and terms]({% link reference/definitions.md %})
-- Network architecture
+- [Network architecture]({% link reference/network_architecture.md %})
 
 ## Message format reference
 
@@ -16,7 +16,8 @@ include_in_nav: true
 - [Network message wrapper]({% link reference/network_message.md %})
 - [Service manifest]({% link reference/manifest.md %})
 - [Service state]({% link reference/state.md %})
-- Analysis update
+- [Analysis update]({% link reference/analysis_update.md %})
+- [Directory listing]({% link reference/directory_listing.md %})
 
 ## File format reference
 
