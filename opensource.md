@@ -28,6 +28,13 @@ plugins.
 
 Coming soon.
 
+## [livetiming-plugin-example](https://github.com/timing71/livetiming-plugin-example)
+
+- Language: **Python 3**
+- License: **AGPL-3.0-or-later**
+
+Example of a timing service plugin.
+
 ## [relay](https://gitlab.com/timing_71/relay)
 
 - Language: **Python 3**
