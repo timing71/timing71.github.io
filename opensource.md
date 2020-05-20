@@ -16,7 +16,7 @@ welcome!
 JavaScript module for interacting with CTD analysis files. Work in progress to
 extract, refactor and modernise code currently used by the Timing71 site.
 
-## livetiming-core (coming soon)
+## [livetiming-core](https://github.com/timing71/livetiming-core) (coming soon)
 
 - Language: **Python 3**
 - License: **AGPL-3.0-or-later**
