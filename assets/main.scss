@@ -68,3 +68,17 @@ $color-system: #54FFFF;
     overflow-x: auto;
   }
 }
+
+.for-people {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+
+  & > div {
+    flex: 1 1 45%;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+
+    padding: 1rem;
+  }
+}
