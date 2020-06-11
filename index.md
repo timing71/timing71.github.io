@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+group: home
 title: Welcome to the Timing71 documentation
-list_title: Recent posts
 ---
 
 **Timing71** (formerly the Live Timing Aggregator) is a motorsport live timing
@@ -17,6 +17,8 @@ timing replays and post-session analysis too.
 
 The Timing71 network is run as a hobby project, by a motorsport fan, and not for
 profit. It is funded through generous donations from the motorsports community.
+
+[Read the latest news...]({% link news.md %})
 
 <div class="for-people">
 

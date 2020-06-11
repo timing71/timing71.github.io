@@ -30,6 +30,8 @@ url: "https://info.timing71.org" # the base hostname & protocol for your site, e
 twitter_username: timing_71
 github_username:  timing71
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:

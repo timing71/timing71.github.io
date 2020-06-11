@@ -21,6 +21,11 @@
         </label>
 
         <div class="trigger">
+          {%- if page.group == "home" -%}
+            <a class="page-link active" href="/">Home</a>
+          {%- else -%}
+            <a class="page-link" href="/">Home</a>
+          {%- endif -%}
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.include_in_nav -%}
