@@ -48,11 +48,11 @@ find out more.
 The Timing71 network can expand your online reach and allow your fans to engage
 on a deeper level with every moment of every session.
 
-We already have integrations with many at-track timing service providers with
-their gracious permission, including Al Kamel and TimeService, building on their
-own web timing offerings. Championships such as the European Le Mans Series have
-appreciated the service that this provides for fans wanting to dig deeper into
-race strategy.
+We already have integrations with many at-track timing service providers,
+building on their own web timing offerings by adding real-time strategy analysis
+and message feed for significant race events. Championships such as the European
+Le Mans Series have appreciated the service that this provides for fans wanting
+to dig deeper into race strategy.
 
 If you'd like to have your events covered on the Timing71 network,
 [get in touch](mailto:james@timing71.org).
