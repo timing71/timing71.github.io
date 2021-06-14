@@ -16,7 +16,7 @@ welcome!
 JavaScript module for interacting with CTD analysis files. Work in progress to
 extract, refactor and modernise code currently used by the Timing71 site.
 
-## [livetiming-core](https://github.com/timing71/livetiming-core) (coming soon)
+## [livetiming-core](https://github.com/timing71/livetiming-core)
 
 - Language: **Python 3**
 - License: **AGPL-3.0-or-later**
@@ -25,8 +25,6 @@ Core live timing libraries for writing and running service plugins, generating
 analysis data, and orchestration of the Timing71 system. Note that this repo
 is not "batteries included" since it does not contain any timing service
 plugins.
-
-Coming soon.
 
 ## [livetiming-plugin-example](https://github.com/timing71/livetiming-plugin-example)
 
